@@ -1,2 +1,2 @@
-Simple shell script to launch the Bitwarden AppImage executable.
+Shell script to launch the Bitwarden AppImage executable.
 
